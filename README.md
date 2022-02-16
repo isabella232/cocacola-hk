@@ -1,9 +1,9 @@
-# Your Project's Title...
+# Coca-Cola Journey: Hong Kong
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx3.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--cocacola-hk--hlxsites.hlx3.page/
+- Live: https://main--cocacola-hk--hlxsites.hlx.live/
 
 ## Installation
 
@@ -23,4 +23,4 @@ npm tst
 1. Add the [helix-bot](https://github.com/apps/helix-bot) to the repository
 1. Install the [Helix CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/helix-cli`
 1. Start Helix Pages Proxy: `hlx up` (opens your browser at `http://localhost:3000`)
-1. Open the `{repo}` directory in your favorite IDE and start coding :)
+1. Open the `cocacola-hk` directory in your favorite IDE and start coding :)
